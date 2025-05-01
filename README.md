@@ -80,6 +80,17 @@ Used to identify anomalies based on local deviation from the neighbourhood.
 
 ---
 
+## 📊 Visual Representations of Fraud Detection Techniques
+
+| K-Means Clustering | DBSCAN Clustering |
+|--------------------|-------------------|
+| ![KMeans](fraud_detection/images/img1.png) | ![DBSCAN](fraud_detection/images/img2.png) |
+
+| Isolation Forest | Dashboard Overview |
+|------------------|--------------------|
+| ![Isolation Forest](fraud_detection/images/img3.png) | ![Dashboard](fraud_detection/images/dash1.png) |
+
+
 ## 🧠 What I Learned
 
 - Practical implementation of unsupervised learning for real-time fraud detection.
