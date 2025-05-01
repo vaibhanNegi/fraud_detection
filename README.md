@@ -84,11 +84,11 @@ Used to identify anomalies based on local deviation from the neighbourhood.
 
 | K-Means Clustering | DBSCAN Clustering |
 |--------------------|-------------------|
-| ![KMeans](fraud_detection/images/img1.png) | ![DBSCAN](fraud_detection/images/img2.png) |
+| ![KMeans](images/img1.png) | ![DBSCAN](images/img2.png) |
 
 | Isolation Forest | Dashboard Overview |
 |------------------|--------------------|
-| ![Isolation Forest](fraud_detection/images/img3.png) | ![Dashboard](fraud_detection/images/dash1.png) |
+| ![Isolation Forest](images/img3.png) | ![Dashboard](images/dash1.png) |
 
 
 ## 🧠 What I Learned
